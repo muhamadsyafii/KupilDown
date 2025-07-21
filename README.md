@@ -20,7 +20,7 @@
 
 Ensure your app has the following:
 
-- Android `minSdkVersion` 23+
+- Android `minSdkVersion` 24+
 - Add required permissions in your `AndroidManifest.xml`:
 
 ```xml
