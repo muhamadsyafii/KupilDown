@@ -345,15 +345,15 @@ class MainActivity : AppCompatActivity() {
     private const val TAG = "MainActivity"
 
     private const val FILE_NAME_1 = "bunny.mp4"
-    private const val URL_1 = "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_30mb.mp4"
+    private const val URL_1 = "https://sample-videos.com/video321/mp4/480/big_buck_bunny_480p_30mb.mp4"
     private const val TAG_1 = "$TAG-1"
 
     private const val FILE_NAME_2 = "100MB.bin"
-    private const val URL_2 = "https://speed.hetzner.de/100MB.bin"
+    private const val URL_2 = "https://nbg1-speed.hetzner.com/100MB.bin"
     private const val TAG_2 = "$TAG-2"
 
     private const val FILE_NAME_3 = "docu.pdf"
-    private const val URL_3 = "https://file-examples.com/storage/fe3286c49f6458f86eb9ed5/2017/10/file-example_PDF_1MB.pdf"
+    private const val URL_3 = "https://sample-videos.com/pdf/Sample-pdf-5mb.pdf"
     private const val TAG_3 = "$TAG-3"
 
     private const val FILE_NAME_4 = "giphy.gif"
@@ -361,11 +361,11 @@ class MainActivity : AppCompatActivity() {
     private const val TAG_4 = "$TAG-4"
 
     private const val FILE_NAME_5 = "1GB.bin"
-    private const val URL_5 = "https://speed.hetzner.de/1GB.bin"
+    private const val URL_5 = "https://nbg1-speed.hetzner.com/1GB.bin"
     private const val TAG_5 = "$TAG-5"
 
     private const val FILE_NAME_6 = "music.mp3"
-    private const val URL_6 = "https://file-examples.com/storage/fe3286c49f6458f86eb9ed5/2017/11/file_example_MP3_5MG.mp3"
+    private const val URL_6 = "https://sample-videos.com/audio/mp3/wave.mp3"
     private const val TAG_6 = "$TAG-6"
 
 
