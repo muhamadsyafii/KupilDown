@@ -1,8 +1,9 @@
-# KupilDown
+# KupilDown [![](https://jitpack.io/v/muhamadsyafii/KupilDown.svg)](https://jitpack.io/#muhamadsyafii/KupilDown)
 
 **KupilDownloader** is a lightweight and efficient Android library designed to manage background file downloads with support for task queuing, resumable downloads, and database-backed progress tracking.
 
 ---
+
 
 ## Features
 
@@ -13,6 +14,25 @@
 - 🧩 Clean and modular architecture
 
 ---
+## 📸 Screenshot & 🎞️ Demo
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <strong>📸 Screenshot</strong><br/>
+        <img src="https://github.com/muhamadsyafii/KupilDown/blob/main/kupildown/src/main/assets/screenshot.png" alt="KupilDown UI" width="350"/>
+      </td>
+      <td align="center">
+        <strong>🎞️ Demo</strong><br/>
+        <img src="https://github.com/muhamadsyafii/KupilDown/blob/main/kupildown/src/main/assets/demo.gif" alt="KupilDown Demo" width="350"/>
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
+
 
 ## Getting Started
 
