@@ -46,7 +46,7 @@ allprojects {
 
 ```groovy
 dependencies {
-    implementation 'com.github.muhamadsyafii:KupilDown:1.0.0'
+    implementation 'com.github.muhamadsyafii:KupilDown:1.1'
 }
 ```
 ---
