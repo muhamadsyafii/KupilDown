@@ -64,9 +64,18 @@ allprojects {
 
 2. Add the dependency:
 
+### Groovy
 ```groovy
 dependencies {
-    implementation 'com.github.muhamadsyafii:KupilDown:1.1'
+    implementation 'com.github.muhamadsyafii:KupilDown:1.2'
+}
+```
+---
+
+### Kotlin DSL
+```DSL
+dependencies {
+    implementation("com.github.muhamadsyafii:KupilDown:1.2")
 }
 ```
 ---
